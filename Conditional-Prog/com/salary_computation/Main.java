@@ -18,7 +18,7 @@ public class Main {
 			DA = salary*0.98F;
 			System.out.printf("%.2f",(salary+HRA+DA));
 		}
-
+		sc.close();
 	}
 
 }
