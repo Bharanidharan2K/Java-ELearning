@@ -29,6 +29,7 @@ public class Main {
 			System.out.println("Child Ticket");
 			break;
 		}
+		sc.close();
 
 	}
 
