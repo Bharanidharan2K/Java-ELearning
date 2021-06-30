@@ -1,5 +1,4 @@
 package com.reward_calculation;
-
 import java.util.Scanner;
 
 public class Main {
